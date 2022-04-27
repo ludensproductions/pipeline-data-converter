@@ -1,0 +1,252 @@
+[
+    {
+        "n_cve_aduana": "01",
+        "d_descripcion": "ACAPULCO, GRO.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "02",
+        "d_descripcion": "AGUA PRIETA, SON.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "05",
+        "d_descripcion": "SUBTENIENTE LOPEZ, Q. ROO.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "06",
+        "d_descripcion": "CD. DEL CARMEN, CAMP.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "07",
+        "d_descripcion": "CD. JUAREZ, CHIH.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "08",
+        "d_descripcion": "COATZACOALCOS, VER.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "11",
+        "d_descripcion": "ENSENADA, B.C.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "12",
+        "d_descripcion": "GUAYMAS, SON.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "14",
+        "d_descripcion": "LA PAZ, B.C.S.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "16",
+        "d_descripcion": "MANZANILLO, COL.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "17",
+        "d_descripcion": "MATAMOROS, TAMPS.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "18",
+        "d_descripcion": "MAZATLAN, SIN.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "19",
+        "d_descripcion": "MEXICALI, B.C.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "20",
+        "d_descripcion": "MEXICO, CDMX",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "22",
+        "d_descripcion": "NACO, SON.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "23",
+        "d_descripcion": "NOGALES, SON.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "24",
+        "d_descripcion": "NUEVO LAREDO, TAMPS.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "25",
+        "d_descripcion": "OJINAGA, CHIH.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "26",
+        "d_descripcion": "PUERTO PALOMAS, CHIH.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "27",
+        "d_descripcion": "PIEDRAS NEGRAS, COAH.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "28",
+        "d_descripcion": "PROGRESO, YUC.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "30",
+        "d_descripcion": "CD. REYNOSA, TAMPS.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "31",
+        "d_descripcion": "SALINA CRUZ, OAX.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "33",
+        "d_descripcion": "SAN LUIS RIO COLORADO, SON.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "34",
+        "d_descripcion": "CD. MIGUEL ALEMAN, TAMPS.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "37",
+        "d_descripcion": "CD. HIDALGO, CHIS.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "38",
+        "d_descripcion": "TAMPICO, TAMPS.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "39",
+        "d_descripcion": "TECATE, B.C.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "40",
+        "d_descripcion": "TIJUANA, B.C.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "42",
+        "d_descripcion": "TUXPAN, VER.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "43",
+        "d_descripcion": "VERACRUZ, VER.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "44",
+        "d_descripcion": "CD. ACU\u00d1A, COAH.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "46",
+        "d_descripcion": "TORREON, COAH.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "47",
+        "d_descripcion": "AEROPUERTO INTERNAL. CD. DE MEXICO, CDMX",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "48",
+        "d_descripcion": "GUADALAJARA, JAL.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "50",
+        "d_descripcion": "SONOYTA, SON.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "51",
+        "d_descripcion": "LAZARO CARDENAS, MICH.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "52",
+        "d_descripcion": "MONTERREY, N.L.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "53",
+        "d_descripcion": "CANCUN, Q. ROO.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "64",
+        "d_descripcion": "QUERETARO, QRO.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "65",
+        "d_descripcion": "TOLUCA, MEX.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "67",
+        "d_descripcion": "CHIHUAHUA, CHIH.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "73",
+        "d_descripcion": "AGUASCALIENTES, AGS.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "75",
+        "d_descripcion": "PUEBLA, PUE.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "80",
+        "d_descripcion": "COLOMBIA, N.L.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "81",
+        "d_descripcion": "ALTAMIRA, TAMPS.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "82",
+        "d_descripcion": "CD. CAMARGO, TAMPS.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "83",
+        "d_descripcion": "DOS BOCAS, TAB.",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "84",
+        "d_descripcion": "GUANAJUATO, GTO",
+        "b_estado": "1"
+    },
+    {
+        "n_cve_aduana": "85",
+        "d_descripcion": "AEROPUERTO INTERNAL. FELIPE ANGELES, MEX.",
+        "b_estado": "1"
+    }
+]
