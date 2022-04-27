@@ -22,12 +22,18 @@ def JsonToPP(data):
     return '|'.join(names) + '\n' + '\n'.join(map(lambda x: objToPP(x), data))
 
 if __name__ == "__main__":
-    # Opening JSON file
+    
+    # Opening the JSON file
     with open('exports/json_data.json') as json_file:
         json_dict = json.load(json_file)
 
+    # Convert the JSON to pipes-separated values and store it in a variable
     pp = JsonToPP(json_dict)
 
+    # Save the pipeline-separated data in a file
     python_file = open("pipelineReverted.txt", "w")
     python_file.write(f'{pp}')
     python_file.close()
+
+    # Use the pipeline-separated data for whatever you want
+    #pp
